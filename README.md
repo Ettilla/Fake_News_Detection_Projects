@@ -4,4 +4,4 @@ ISOT Dataset: https://onlineacademiccommunity.uvic.ca/isot/2022/11/27/fake-news-
 
 Liar Dataset: https://aclanthology.org/P17-2067/
 
-Covid Tweeter Dataset:https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP2/PXF2CU
+Covid Tweeter Dataset: https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP2/PXF2CU
